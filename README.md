@@ -1,0 +1,2 @@
+# MCFishing
+Minecraft Auto Fishing
