@@ -9,7 +9,7 @@ Support multiple game versions
 
 
 使用方法:  
-加载钓鱼专用材质包  
+加载钓鱼专用材质包  ![资源包](https://github.com/zedoCN/MCFishing/blob/main/MCFishing/MCFishingResourcepack.zip)
 将游戏窗口化  
 打开钓鱼软件  
 将钓鱼软件移至一边  
